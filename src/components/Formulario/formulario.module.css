@@ -16,7 +16,7 @@ input {
   display:flex;
   flex-direction: column;
   grid-area: nova-tarefa;
-  background-image: linear-gradient(#10223ac2, #183f796c);
+  background-image: linear-gradient(#0f154dc2, #112683ab);
   border-radius: 10px;
   box-shadow: 2px 4px 4px #0000009F;
   padding: 12px;
